@@ -1,0 +1,29 @@
+h5,
+.h5 {
+  font-size: 10px !important;
+  letter-spacing: 18px;
+}
+.about-desc {
+  font-size: 12px;
+}
+.ftco-footer-social li a {
+  height: 45px !important;
+  width: 48px !important;
+}
+.ftco-footer-social li a span {
+  position: absolute;
+  font-size: 17px !important;
+}
+.services .media-body .heading {
+  font-size: 12px !important;
+  letter-spacing: 2px !important;
+}
+.services .icon span {
+  position: relative;
+  color: #525355 !important;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 14px;
+}
