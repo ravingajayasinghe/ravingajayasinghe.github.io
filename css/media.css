@@ -65,3 +65,7 @@ a.logo {
     }
 
 }
+/*style for index page search icon*/
+.block-3 .image .icon {
+    display: none!important;
+}
