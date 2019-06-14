@@ -67,6 +67,11 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.block-3 .image .icon {
+    
+    display: none!important;
+}
+
   .awesome-portfolio-area {
     background: #121212 none repeat scroll 0 0;
     overflow: hidden;
